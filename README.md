@@ -2,6 +2,11 @@
 
 当前版本是一个纯前端试玩站，适合直接部署到 GitHub Pages。
 
+## 项目地址
+
+- GitHub 仓库：`https://github.com/tonyxu-coder/kards-lite`
+- 在线访问：`https://tonyxu-coder.github.io/kards-lite`
+
 ## 项目结构
 
 - `index.html`
@@ -21,12 +26,12 @@ python3 -m http.server 8766
 
 ## GitHub Pages 发布
 
-目标仓库：`tonyxu/kards-lite`
+目标仓库：`tonyxu-coder/kards-lite`
 
 发布后的地址：
 
 ```text
-https://tonyxu.github.io/kards-lite/
+https://tonyxu-coder.github.io/kards-lite
 ```
 
 推荐步骤：
@@ -43,13 +48,13 @@ https://tonyxu.github.io/kards-lite/
 首页入口：
 
 ```text
-https://tonyxu.github.io/kards-lite/
+https://tonyxu-coder.github.io/kards-lite
 ```
 
 直接进入 AI 对战：
 
 ```text
-https://tonyxu.github.io/kards-lite/?screen=battle&mode=pve&p1=north_armor_push&p2=red_blitz_rush&autostart=1
+https://tonyxu-coder.github.io/kards-lite/?screen=battle&mode=pve&p1=north_armor_push&p2=red_blitz_rush&autostart=1
 ```
 
 ## 当前版本说明
