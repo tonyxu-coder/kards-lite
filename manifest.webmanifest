@@ -1,0 +1,18 @@
+{
+  "name": "钢铁战线",
+  "short_name": "钢铁战线",
+  "description": "二战题材战术卡牌游戏，现已开放浏览器试玩。",
+  "start_url": "./?screen=home",
+  "display": "standalone",
+  "background_color": "#171813",
+  "theme_color": "#171813",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "256x256",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="钢铁战线图标">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5f241d"/>
+      <stop offset="100%" stop-color="#16130f"/>
+    </linearGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0cf7a"/>
+      <stop offset="100%" stop-color="#b78937"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="40" fill="url(#bg)"/>
+  <path d="M46 176h164v20H46z" fill="#120f0c" opacity="0.9"/>
+  <path d="M78 140h70l14 18h42v12H60v-12h18z" fill="#1a1511"/>
+  <rect x="104" y="112" width="42" height="22" rx="5" fill="#1a1511"/>
+  <rect x="143" y="118" width="52" height="8" rx="4" fill="#1a1511"/>
+  <circle cx="90" cy="182" r="16" fill="#0f0b09"/>
+  <circle cx="160" cy="182" r="16" fill="#0f0b09"/>
+  <path d="M128 42l14 40h42l-34 24 12 40-34-25-34 25 12-40-34-24h42z" fill="url(#steel)"/>
+</svg>
